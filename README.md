@@ -81,4 +81,4 @@ Ola-Ride-Analytics-PowerBI/
 3. If asked, update the CSV path under Transform data > Data source settings
 
 ## Author
-Rushikesh Tarmale | Operations Executive | Aspiring Data Analyst
+Akash Nikam | Aspiring Data Analyst
